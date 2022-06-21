@@ -4,3 +4,8 @@
 .Ruserdata
 .DS_Store
 Thumbs.db
+\\.Rmd$
+\\.Rmarkdown$
+_cache$
+.hugo_build.lock
+.DS_Store
