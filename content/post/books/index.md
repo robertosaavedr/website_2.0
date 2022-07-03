@@ -4,8 +4,6 @@ draft: true
 title: 🇵🇪 🇪🇸What I have learned growing up in Peru and Spain
 showInMenu: false
 hideLastModified: true
-summaryImage: "colors.jpg"
-keepImageRatio: true
 tags: ["personal", "travel"]
 ---
 
